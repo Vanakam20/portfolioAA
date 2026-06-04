@@ -38,7 +38,7 @@ export default function Portfolio() {
     }
   }, [terminalLines]);
 
-  const nav = ["Accueil", "À propos", "Compétences", "Projets", "Contact"];
+  const nav = ["Accueil", "A propos", "Skill", "Contact"];
 
   const skills = [
     {
@@ -164,7 +164,7 @@ export default function Portfolio() {
         </div>
       </section>
 
-      <section id="about" className="section about">
+      <section id="about" className="section a propos">
         <div className="section-inner">
           <p className="section-label">/ à propos</p>
           <h2 className="section-title">Qui suis-je</h2>
