@@ -61,6 +61,11 @@ export default function Portfolio() {
       icon: "🖥️",
       items: ["Linux (Ubuntu/Debian)", "Scripts Bash", "Git & GitFlow", "Windows Server"],
     },
+    {
+      category: "Cloud",
+      icon: "☁️",
+      items: ["Azure", "AWS", "Google Cloud"],
+    },
   ];
 
   const projects = [
